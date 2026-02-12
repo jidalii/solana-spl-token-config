@@ -1,0 +1,6 @@
+{
+    "name": "Tether",
+    "symbol": "USDT",
+    "description": "Example token for solana dev",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/825.png"
+}
